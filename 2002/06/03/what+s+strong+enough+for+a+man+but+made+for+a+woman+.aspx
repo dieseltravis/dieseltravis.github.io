@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2002/06/03/what-s-strong-enough-for-a-man-but-made-for-a-woman-" />

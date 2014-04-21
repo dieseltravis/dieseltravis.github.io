@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/08/03/meet-the-world" />

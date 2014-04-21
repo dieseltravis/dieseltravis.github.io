@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2009/02/16/brilliant-css-for-the-kbd-element" />

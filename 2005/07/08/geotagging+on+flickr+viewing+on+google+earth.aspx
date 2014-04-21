@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/07/08/geotagging-on-flickr-viewing-on-google-earth" />

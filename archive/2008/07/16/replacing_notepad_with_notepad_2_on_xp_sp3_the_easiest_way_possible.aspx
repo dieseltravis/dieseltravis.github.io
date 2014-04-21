@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible" />

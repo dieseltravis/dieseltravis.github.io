@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary" />

@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2008/09/22/conversations-around-the-campfire-an-obama-mccain-css-comparison" />

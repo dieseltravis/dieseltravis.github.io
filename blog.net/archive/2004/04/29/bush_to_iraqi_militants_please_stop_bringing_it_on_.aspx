@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/04/29/bush-to-iraqi-militants-please-stop-bringing-it-on-" />

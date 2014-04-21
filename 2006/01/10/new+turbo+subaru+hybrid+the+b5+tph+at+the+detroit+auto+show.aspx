@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/01/10/new-turbo-subaru-hybrid-the-b5-tph-at-the-detroit-auto-show" />

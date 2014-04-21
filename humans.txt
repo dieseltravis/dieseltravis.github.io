@@ -1,0 +1,72 @@
+﻿/* TEAM */
+    Travis Hardiman (@travis)
+    Rochester, New York, USA
+
+/* THANKS */
+    John Resig (@jeresig), 
+    Remy Sharp (@rem), 
+    Paul Irish (@paul_irish), 
+    Chris Coyier (@chriscoyier), 
+    Brandlogic 
+    Mozilla 
+    Rochester.JS 
+
+/* SITE */
+    Last update: 2014/04/04
+    Language: English
+    web: jQuery, modernizr, h5bp
+    svc: World Weather Online, disqus
+    suo: node, ruby, sass, compass
+    IDE: JS Bin, Visual Studio Express, Notepad2, github
+    img: Paint.Net, png2ico
+
+    ┌─────────────────┐
+    │ ╔═════════════╗ │
+    │ ║ *traviblog* ║ │
+    │ ╚════╗ 2 ╔════╝ │
+    └────┐ ║ 0 ║ ┌────┘
+         │ ║ 1 ║ │    
+         │ ║ 4 ║ │    
+         │ ╚═══╝ │    
+         └───────┘     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           
+    WUWU#:                        ,WU      
+   WUTANGCLAN#                 WUTANG#     
+  WUTANGCLANWUWU#          WUTANGCLANWU    
+  WUTANGCLANWUWU         #WUTANGCLANWUWU.  
+ ,WUTANGCLANWUWU          WUTANGCLANWUWU#  
+ WUTANGCLANWUWU      WU   7WUTANGCLANWUWU  
+ WUTANGCLANWUWU:  #WUWU#  WUTANGCLANWUWU#. 
+ WUTANGCLANWUWU#. ~WUWU# WUTANGCLANWUWU##, 
+ WUTANGCLANWUTANGCLANWUTANGCLANWUTANGCLAN# 
+ WUTANGCLANWUTANGCLANWUTANGCLANWUTANGCLAN# 
+ WUTANGCLANWUTANGCLANWUTANGCLANWUTANGWU### 
+ "WUTANGCLANWUTANGCLANWUTANGCLANWUTANGWU#. 
+  WUTANGCLANWUTANGCLAN=WUTANGCLANWUTANG##. 
+  ~WUTANGCLANWUTANGWU#  WUTANGCLANWUWU##.  
+   WUTANGCLANWUTANGWU#   WUTANGCLANWUWU#   
+    WUTANGCLANWUTANGWU   #WUTANGCLANWU#    
+     +WUTANGCLANWUTANG   'WUTANGCLANWU     
+       WUTANGCLANWUWU#    WUTANGCLAN       
+         WUTANGCLANWU#    WUTANGWU#        
+            #WUTANGCLAN   WUTANG#          
+                '"WUWU#   WUWU#.           
+                         #WU              
+                                           2014

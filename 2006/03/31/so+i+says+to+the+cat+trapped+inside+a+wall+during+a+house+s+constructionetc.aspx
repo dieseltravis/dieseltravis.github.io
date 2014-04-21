@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/03/31/so-i-says-to-the-cat-trapped-inside-a-wall-during-a-house-s-constructionetc" />

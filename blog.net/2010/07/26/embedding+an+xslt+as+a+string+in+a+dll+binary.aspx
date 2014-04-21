@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2010/07/26/embedding-an-xslt-as-a-string-in-a-dll-binary" />

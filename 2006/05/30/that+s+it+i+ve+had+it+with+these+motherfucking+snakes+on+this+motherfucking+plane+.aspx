@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/05/30/that-s-it-i-ve-had-it-with-these-motherfucking-snakes-on-this-motherfucking-plane-" />

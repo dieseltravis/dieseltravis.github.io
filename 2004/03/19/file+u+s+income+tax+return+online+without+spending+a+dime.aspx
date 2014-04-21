@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/03/19/file-u-s-income-tax-return-online-without-spending-a-dime" />

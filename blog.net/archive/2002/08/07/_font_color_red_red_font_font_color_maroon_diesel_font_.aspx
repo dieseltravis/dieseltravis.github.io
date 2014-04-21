@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2002/08/07/-font-color-red-red-font-font-color-maroon-diesel-font-" />

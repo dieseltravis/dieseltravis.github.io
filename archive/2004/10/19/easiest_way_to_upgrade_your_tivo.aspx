@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/10/19/easiest-way-to-upgrade-your-tivo" />
