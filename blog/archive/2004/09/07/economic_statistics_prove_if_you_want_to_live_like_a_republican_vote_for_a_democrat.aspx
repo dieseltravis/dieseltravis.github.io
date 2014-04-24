@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/09/07/economic-statistics-prove-if-you-want-to-live-like-a-republican-vote-for-a-democrat" />

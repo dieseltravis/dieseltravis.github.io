@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/04/02/greed-vs-long-term-stability-vs-laziness" />

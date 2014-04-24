@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/06/22/would-the-robot-be-up-for-a-threesome-with-the-tivo" />

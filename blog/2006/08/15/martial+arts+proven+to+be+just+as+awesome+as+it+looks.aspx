@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/08/15/martial-arts-proven-to-be-just-as-awesome-as-it-looks" />

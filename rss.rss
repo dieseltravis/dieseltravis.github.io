@@ -7,8 +7,8 @@
 	<atom:link href="http://travis.servebeer.com/rss.rss" rel="self" type="application/rss+xml" />
 	<language>en-us</language>
 	<copyright>© Travis Hardiman, et al. 1979-2079.</copyright>
-	<lastBuildDate>Thu, 24 Apr 2014 21:25:01 GMT</lastBuildDate>
-	<pubDate>Thu, 24 Apr 2014 21:25:01 GMT</pubDate>
+	<lastBuildDate>Thu, 24 Apr 2014 23:21:33 GMT</lastBuildDate>
+	<pubDate>Thu, 24 Apr 2014 23:21:33 GMT</pubDate>
 	<ttl>43200</ttl>
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	
@@ -202,14 +202,14 @@
 	<item>
 		<title>So That&#x27;s What Happened To Doogie Howser, M.D.</title>
 		<description></description>
-		<link>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d-</link>
-		<guid>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d-</guid>
+		<link>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d</link>
+		<guid>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d</guid>
 		<pubDate>Wed, 16 Jul 2008 10:28:00 GMT</pubDate>
 		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
 		
 			<category>KS</category>
 		
-		<comments>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d-#disqus_thread</comments>
+		<comments>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d#disqus_thread</comments>
 		
 		<source url=""></source>
 	</item>
@@ -217,14 +217,14 @@
 	<item>
 		<title>JavaScript is just as easy as Ruby (even without jQuery!)</title>
 		<description></description>
-		<link>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery-</link>
-		<guid>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery-</guid>
+		<link>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery</link>
+		<guid>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery</guid>
 		<pubDate>Thu, 22 May 2008 00:02:00 GMT</pubDate>
 		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
 		
 			<category>tech</category>
 		
-		<comments>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery-#disqus_thread</comments>
+		<comments>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery#disqus_thread</comments>
 		
 		<source url=""></source>
 	</item>
@@ -279,14 +279,14 @@
 	<item>
 		<title>Converting an AVCHD M2TS Video File Into Something Usable (for free!)</title>
 		<description></description>
-		<link>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free-</link>
-		<guid>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free-</guid>
+		<link>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free</link>
+		<guid>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free</guid>
 		<pubDate>Thu, 06 Mar 2008 00:42:00 GMT</pubDate>
 		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
 		
 			<category>tech</category>
 		
-		<comments>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free-#disqus_thread</comments>
+		<comments>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free#disqus_thread</comments>
 		
 		<source url=""></source>
 	</item>
@@ -294,8 +294,8 @@
 	<item>
 		<title>Can&#x27;t get enough Travis?</title>
 		<description></description>
-		<link>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis-</link>
-		<guid>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis-</guid>
+		<link>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis</link>
+		<guid>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis</guid>
 		<pubDate>Tue, 05 Feb 2008 20:39:00 GMT</pubDate>
 		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
 		
@@ -303,7 +303,7 @@
 		
 			<category>tech</category>
 		
-		<comments>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis-#disqus_thread</comments>
+		<comments>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis#disqus_thread</comments>
 		
 		<source url=""></source>
 	</item>
@@ -311,14 +311,14 @@
 	<item>
 		<title>E-lec-tri-city!</title>
 		<description></description>
-		<link>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city-</link>
-		<guid>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city-</guid>
+		<link>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city</link>
+		<guid>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city</guid>
 		<pubDate>Thu, 10 Jan 2008 22:05:00 GMT</pubDate>
 		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
 		
 			<category>local</category>
 		
-		<comments>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city-#disqus_thread</comments>
+		<comments>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city#disqus_thread</comments>
 		
 		<source url=""></source>
 	</item>

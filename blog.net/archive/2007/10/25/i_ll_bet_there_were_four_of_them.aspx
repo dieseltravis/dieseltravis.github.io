@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2007/10/25/i-ll-bet-there-were-four-of-them" />

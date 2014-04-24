@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/02/09/build-your-own-budget-with-oreo-cookies-and-send-it-to-congress" />
