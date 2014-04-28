@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/07/20/google-moon" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/07/20/google-moon" />

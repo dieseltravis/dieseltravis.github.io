@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/05/17/mcdonalds-is-asian" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/05/17/mcdonalds-is-asian" />

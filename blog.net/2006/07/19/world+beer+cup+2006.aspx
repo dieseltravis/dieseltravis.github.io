@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/07/19/world-beer-cup-2006" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/07/19/world-beer-cup-2006" />

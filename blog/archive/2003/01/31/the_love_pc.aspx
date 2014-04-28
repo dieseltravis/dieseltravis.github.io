@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2003/01/31/the-love-pc" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2003/01/31/the-love-pc" />

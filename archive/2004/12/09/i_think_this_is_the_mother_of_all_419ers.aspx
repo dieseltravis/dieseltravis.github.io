@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/12/09/i-think-this-is-the-mother-of-all-419ers" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/12/09/i-think-this-is-the-mother-of-all-419ers" />

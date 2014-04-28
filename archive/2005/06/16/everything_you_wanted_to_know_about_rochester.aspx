@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/06/16/everything-you-wanted-to-know-about-rochester" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/06/16/everything-you-wanted-to-know-about-rochester" />

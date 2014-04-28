@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2002/06/03/why-did-helen-keller-use-two-hands-to-masturbate" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2002/06/03/why-did-helen-keller-use-two-hands-to-masturbate" />

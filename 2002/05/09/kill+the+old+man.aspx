@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2002/05/09/kill-the-old-man" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2002/05/09/kill-the-old-man" />

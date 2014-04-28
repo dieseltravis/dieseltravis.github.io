@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/11/15/ytmnd-acronym-title-what-is-love-wil-acronym" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/11/15/ytmnd-acronym-title-what-is-love-wil-acronym" />

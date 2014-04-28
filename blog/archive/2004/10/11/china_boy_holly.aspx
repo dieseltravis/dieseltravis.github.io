@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/10/11/china-boy-holly" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/10/11/china-boy-holly" />

@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/11/24/msn-search-vs-google" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/11/24/msn-search-vs-google" />

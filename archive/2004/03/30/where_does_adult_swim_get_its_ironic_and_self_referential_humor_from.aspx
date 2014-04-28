@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/03/30/where-does-adult-swim-get-its-ironic-and-self-referential-humor-from" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/03/30/where-does-adult-swim-get-its-ironic-and-self-referential-humor-from" />

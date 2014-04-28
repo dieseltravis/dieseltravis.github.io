@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/06/30/alpha-imagezoomer-v0-2-help" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/06/30/alpha-imagezoomer-v0-2-help" />

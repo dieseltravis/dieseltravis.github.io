@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/04/13/plat-du-refuse-wtf" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/04/13/plat-du-refuse-wtf" />

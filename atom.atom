@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>traviblog</title>
-  <link href="http://travis.servebeer.com/"/>
-  <link rel="self" href="http://travis.servebeer.com/atom.atom" />
-  <updated>2014-04-28T17:03:24.000Z</updated>
+  <link href="http://dieseltravis.github.io/"/>
+  <link rel="self" href="http://dieseltravis.github.io/atom.atom" />
+  <updated>2014-04-28T23:09:43.000Z</updated>
   <author>
     <name>Travis Hardiman</name>
     <email>travis.hardiman+author@gmail.com</email>
-    <uri>http://travis.servebeer.com/about/</uri>
+    <uri>http://dieseltravis.github.io/about/</uri>
   </author>
-  <id>http://travis.servebeer.com</id>
+  <id>http://dieseltravis.github.io</id>
   <generator uri="https://github.com/dieseltravis/suo" version="0.0.1">suo</generator>
   
     <category term="travis" />
@@ -20,16 +20,16 @@
   
     <category term="traviblog" />
   
-  <icon>http://travis.servebeer.com/favicon.ico</icon>
-  <logo>http://travis.servebeer.com/i/i/logo.png</logo>
+  <icon>http://dieseltravis.github.io/favicon.ico</icon>
+  <logo>http://dieseltravis.github.io/i/i/logo.png</logo>
   <rights>© Travis Hardiman, et al. 1979-2079.</rights>
   <subtitle>the enterprising blog with the home-made touch</subtitle>
 
 
 	<entry>
 		<title>Frost Pisst</title>
-		<link href="http://travis.servebeer.com/posts/2014/04/05/frost-pisst" />
-		<id>http://travis.servebeer.com/posts/2014/04/05/frost-pisst</id>
+		<link href="http://dieseltravis.github.io/posts/2014/04/05/frost-pisst" />
+		<id>http://dieseltravis.github.io/posts/2014/04/05/frost-pisst</id>
 		<published>2014-04-07T08:04:04.040Z</published>
 		<updated>2014-04-07T08:04:04.040Z</updated>
 		<summary>First post using the node js script that made this site: suo.</summary>
@@ -37,7 +37,7 @@
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="blog" />
@@ -50,8 +50,8 @@
 
 	<entry>
 		<title>Adding An Easy Shortcut to the JSHint javascript validator to Visual Studio</title>
-		<link href="http://travis.servebeer.com/posts/2011/05/13/adding-an-easy-shortcut-to-the-jshint-javascript-validator-to-visual-studio" />
-		<id>http://travis.servebeer.com/posts/2011/05/13/adding-an-easy-shortcut-to-the-jshint-javascript-validator-to-visual-studio</id>
+		<link href="http://dieseltravis.github.io/posts/2011/05/13/adding-an-easy-shortcut-to-the-jshint-javascript-validator-to-visual-studio" />
+		<id>http://dieseltravis.github.io/posts/2011/05/13/adding-an-easy-shortcut-to-the-jshint-javascript-validator-to-visual-studio</id>
 		<published>2011-05-13T18:36:30.367Z</published>
 		<updated>2011-05-13T18:36:30.367Z</updated>
 		<summary></summary>
@@ -78,7 +78,7 @@
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="javascript" />
@@ -89,8 +89,8 @@
 
 	<entry>
 		<title>Embedding an XSLT as a string in a DLL binary</title>
-		<link href="http://travis.servebeer.com/posts/2010/07/26/embedding-an-xslt-as-a-string-in-a-dll-binary" />
-		<id>http://travis.servebeer.com/posts/2010/07/26/embedding-an-xslt-as-a-string-in-a-dll-binary</id>
+		<link href="http://dieseltravis.github.io/posts/2010/07/26/embedding-an-xslt-as-a-string-in-a-dll-binary" />
+		<id>http://dieseltravis.github.io/posts/2010/07/26/embedding-an-xslt-as-a-string-in-a-dll-binary</id>
 		<published>2010-07-26T18:00:05.852Z</published>
 		<updated>2010-07-26T18:00:05.852Z</updated>
 		<summary></summary>
@@ -140,7 +140,7 @@ public static XslCompiledTransform GetXsl()
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="programming" />
@@ -151,8 +151,8 @@ public static XslCompiledTransform GetXsl()
 
 	<entry>
 		<title>Compiling an XSLT into a DLL binary</title>
-		<link href="http://travis.servebeer.com/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary" />
-		<id>http://travis.servebeer.com/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary</id>
+		<link href="http://dieseltravis.github.io/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary" />
+		<id>http://dieseltravis.github.io/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary</id>
 		<published>2010-07-19T22:51:30.414Z</published>
 		<updated>2010-07-19T22:51:30.414Z</updated>
 		<summary></summary>
@@ -199,7 +199,7 @@ Time Elapsed 00:00:02.31</pre>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="programming" />
@@ -210,8 +210,8 @@ Time Elapsed 00:00:02.31</pre>
 
 	<entry>
 		<title>Adding An Easy Shortcut to the JSLint javascript validator to Visual Studio</title>
-		<link href="http://travis.servebeer.com/posts/2009/08/31/adding-an-easy-shortcut-to-the-jslint-javascript-validator-to-visual-studio" />
-		<id>http://travis.servebeer.com/posts/2009/08/31/adding-an-easy-shortcut-to-the-jslint-javascript-validator-to-visual-studio</id>
+		<link href="http://dieseltravis.github.io/posts/2009/08/31/adding-an-easy-shortcut-to-the-jslint-javascript-validator-to-visual-studio" />
+		<id>http://dieseltravis.github.io/posts/2009/08/31/adding-an-easy-shortcut-to-the-jslint-javascript-validator-to-visual-studio</id>
 		<published>2009-08-31T20:38:09.547Z</published>
 		<updated>2009-08-31T20:38:09.547Z</updated>
 		<summary></summary>
@@ -248,7 +248,7 @@ echo Done.</pre></li>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="javascript" />
@@ -259,8 +259,8 @@ echo Done.</pre></li>
 
 	<entry>
 		<title>Welcome to the new TraviBlog</title>
-		<link href="http://travis.servebeer.com/posts/2009/06/08/welcome-to-the-new-traviblog" />
-		<id>http://travis.servebeer.com/posts/2009/06/08/welcome-to-the-new-traviblog</id>
+		<link href="http://dieseltravis.github.io/posts/2009/06/08/welcome-to-the-new-traviblog" />
+		<id>http://dieseltravis.github.io/posts/2009/06/08/welcome-to-the-new-traviblog</id>
 		<published>2009-06-08T07:40:07.113Z</published>
 		<updated>2009-06-08T07:40:07.113Z</updated>
 		<summary></summary>
@@ -269,7 +269,7 @@ echo Done.</pre></li>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="dasBlog" />
@@ -280,8 +280,8 @@ echo Done.</pre></li>
 
 	<entry>
 		<title>Brilliant CSS for the KBD element</title>
-		<link href="http://travis.servebeer.com/posts/2009/02/16/brilliant-css-for-the-kbd-element" />
-		<id>http://travis.servebeer.com/posts/2009/02/16/brilliant-css-for-the-kbd-element</id>
+		<link href="http://dieseltravis.github.io/posts/2009/02/16/brilliant-css-for-the-kbd-element" />
+		<id>http://dieseltravis.github.io/posts/2009/02/16/brilliant-css-for-the-kbd-element</id>
 		<published>2009-02-16T12:07:00.000Z</published>
 		<updated>2009-02-16T12:07:00.000Z</updated>
 		<summary></summary>
@@ -305,7 +305,7 @@ echo Done.</pre></li>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="tech" />
@@ -314,8 +314,8 @@ echo Done.</pre></li>
 
 	<entry>
 		<title>Conversations around the Campfire: an Obama/McCain CSS comparison</title>
-		<link href="http://travis.servebeer.com/posts/2008/09/22/conversations-around-the-campfire-an-obama-mccain-css-comparison" />
-		<id>http://travis.servebeer.com/posts/2008/09/22/conversations-around-the-campfire-an-obama-mccain-css-comparison</id>
+		<link href="http://dieseltravis.github.io/posts/2008/09/22/conversations-around-the-campfire-an-obama-mccain-css-comparison" />
+		<id>http://dieseltravis.github.io/posts/2008/09/22/conversations-around-the-campfire-an-obama-mccain-css-comparison</id>
 		<published>2008-09-22T19:47:00.000Z</published>
 		<updated>2008-09-22T19:47:00.000Z</updated>
 		<summary></summary>
@@ -379,7 +379,7 @@ echo Done.</pre></li>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="politix" />
@@ -390,8 +390,8 @@ echo Done.</pre></li>
 
 	<entry>
 		<title>Conversations around the Campfire: an Apple/Palin comparison</title>
-		<link href="http://travis.servebeer.com/posts/2008/09/19/conversations-around-the-campfire-an-apple-palin-comparison" />
-		<id>http://travis.servebeer.com/posts/2008/09/19/conversations-around-the-campfire-an-apple-palin-comparison</id>
+		<link href="http://dieseltravis.github.io/posts/2008/09/19/conversations-around-the-campfire-an-apple-palin-comparison" />
+		<id>http://dieseltravis.github.io/posts/2008/09/19/conversations-around-the-campfire-an-apple-palin-comparison</id>
 		<published>2008-09-19T10:17:00.000Z</published>
 		<updated>2008-09-19T10:17:00.000Z</updated>
 		<summary></summary>
@@ -427,7 +427,7 @@ echo Done.</pre></li>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="politix" />
@@ -438,8 +438,8 @@ echo Done.</pre></li>
 
 	<entry>
 		<title>Replacing Notepad with Notepad 2 on XP SP3, the easiest way possible</title>
-		<link href="http://travis.servebeer.com/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible" />
-		<id>http://travis.servebeer.com/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible</id>
+		<link href="http://dieseltravis.github.io/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible" />
+		<id>http://dieseltravis.github.io/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible</id>
 		<published>2008-07-16T13:21:00.000Z</published>
 		<updated>2008-07-16T13:21:00.000Z</updated>
 		<summary></summary>
@@ -478,7 +478,7 @@ copy %npath%\notepad.exe %npath%\notepad.original%count%.exe /y
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="tech" />
@@ -487,8 +487,8 @@ copy %npath%\notepad.exe %npath%\notepad.original%count%.exe /y
 
 	<entry>
 		<title>So That&#x27;s What Happened To Doogie Howser, M.D.</title>
-		<link href="http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d" />
-		<id>http://travis.servebeer.com/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d</id>
+		<link href="http://dieseltravis.github.io/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d" />
+		<id>http://dieseltravis.github.io/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d</id>
 		<published>2008-07-16T10:28:00.000Z</published>
 		<updated>2008-07-16T10:28:00.000Z</updated>
 		<summary></summary>
@@ -498,7 +498,7 @@ copy %npath%\notepad.exe %npath%\notepad.original%count%.exe /y
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="KS" />
@@ -507,8 +507,8 @@ copy %npath%\notepad.exe %npath%\notepad.original%count%.exe /y
 
 	<entry>
 		<title>JavaScript is just as easy as Ruby (even without jQuery!)</title>
-		<link href="http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery" />
-		<id>http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery</id>
+		<link href="http://dieseltravis.github.io/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery" />
+		<id>http://dieseltravis.github.io/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery</id>
 		<published>2008-05-22T00:02:00.000Z</published>
 		<updated>2008-05-22T00:02:00.000Z</updated>
 		<summary></summary>
@@ -562,7 +562,7 @@ function rand(lowerBound, upperBound) {
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="tech" />
@@ -571,8 +571,8 @@ function rand(lowerBound, upperBound) {
 
 	<entry>
 		<title>Top 3 Vista Features that FAIL</title>
-		<link href="http://travis.servebeer.com/posts/2008/05/19/top-3-vista-features-that-fail" />
-		<id>http://travis.servebeer.com/posts/2008/05/19/top-3-vista-features-that-fail</id>
+		<link href="http://dieseltravis.github.io/posts/2008/05/19/top-3-vista-features-that-fail" />
+		<id>http://dieseltravis.github.io/posts/2008/05/19/top-3-vista-features-that-fail</id>
 		<published>2008-05-19T19:03:00.000Z</published>
 		<updated>2008-05-19T19:03:00.000Z</updated>
 		<summary></summary>
@@ -594,7 +594,7 @@ function rand(lowerBound, upperBound) {
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="tech" />
@@ -603,8 +603,8 @@ function rand(lowerBound, upperBound) {
 
 	<entry>
 		<title>PRK</title>
-		<link href="http://travis.servebeer.com/posts/2008/03/29/prk" />
-		<id>http://travis.servebeer.com/posts/2008/03/29/prk</id>
+		<link href="http://dieseltravis.github.io/posts/2008/03/29/prk" />
+		<id>http://dieseltravis.github.io/posts/2008/03/29/prk</id>
 		<published>2008-03-30T00:51:00.000Z</published>
 		<updated>2008-03-30T00:51:00.000Z</updated>
 		<summary></summary>
@@ -631,7 +631,7 @@ While some people can see 20/20 after the first 5 days with PRK, it wasn't that 
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="local" />
@@ -642,8 +642,8 @@ While some people can see 20/20 after the first 5 days with PRK, it wasn't that 
 
 	<entry>
 		<title>HOPE/CHANGE</title>
-		<link href="http://travis.servebeer.com/posts/2008/03/14/hope-change" />
-		<id>http://travis.servebeer.com/posts/2008/03/14/hope-change</id>
+		<link href="http://dieseltravis.github.io/posts/2008/03/14/hope-change" />
+		<id>http://dieseltravis.github.io/posts/2008/03/14/hope-change</id>
 		<published>2008-03-14T09:57:00.000Z</published>
 		<updated>2008-03-14T09:57:00.000Z</updated>
 		<summary></summary>
@@ -652,7 +652,7 @@ While some people can see 20/20 after the first 5 days with PRK, it wasn't that 
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="politix" />
@@ -661,8 +661,8 @@ While some people can see 20/20 after the first 5 days with PRK, it wasn't that 
 
 	<entry>
 		<title>Converting an AVCHD M2TS Video File Into Something Usable (for free!)</title>
-		<link href="http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free" />
-		<id>http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free</id>
+		<link href="http://dieseltravis.github.io/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free" />
+		<id>http://dieseltravis.github.io/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free</id>
 		<published>2008-03-06T00:42:00.000Z</published>
 		<updated>2008-03-06T00:42:00.000Z</updated>
 		<summary></summary>
@@ -714,7 +714,7 @@ LanczosResize(1280,720) # Lanczos (Sharp)</pre>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="tech" />
@@ -723,8 +723,8 @@ LanczosResize(1280,720) # Lanczos (Sharp)</pre>
 
 	<entry>
 		<title>Can&#x27;t get enough Travis?</title>
-		<link href="http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis" />
-		<id>http://travis.servebeer.com/posts/2008/02/05/can-t-get-enough-travis</id>
+		<link href="http://dieseltravis.github.io/posts/2008/02/05/can-t-get-enough-travis" />
+		<id>http://dieseltravis.github.io/posts/2008/02/05/can-t-get-enough-travis</id>
 		<published>2008-02-05T20:39:00.000Z</published>
 		<updated>2008-02-05T20:39:00.000Z</updated>
 		<summary></summary>
@@ -734,7 +734,7 @@ LanczosResize(1280,720) # Lanczos (Sharp)</pre>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="local" />
@@ -745,8 +745,8 @@ LanczosResize(1280,720) # Lanczos (Sharp)</pre>
 
 	<entry>
 		<title>E-lec-tri-city!</title>
-		<link href="http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city" />
-		<id>http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city</id>
+		<link href="http://dieseltravis.github.io/posts/2008/01/10/e-lec-tri-city" />
+		<id>http://dieseltravis.github.io/posts/2008/01/10/e-lec-tri-city</id>
 		<published>2008-01-10T22:05:00.000Z</published>
 		<updated>2008-01-10T22:05:00.000Z</updated>
 		<summary></summary>
@@ -764,7 +764,7 @@ Si si!</q>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="local" />
@@ -773,8 +773,8 @@ Si si!</q>
 
 	<entry>
 		<title>Current Beard Alert Level: Chuck Norris</title>
-		<link href="http://travis.servebeer.com/posts/2007/11/14/current-beard-alert-level-chuck-norris" />
-		<id>http://travis.servebeer.com/posts/2007/11/14/current-beard-alert-level-chuck-norris</id>
+		<link href="http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris" />
+		<id>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris</id>
 		<published>2007-11-14T21:53:00.000Z</published>
 		<updated>2007-11-14T21:53:00.000Z</updated>
 		<summary></summary>
@@ -783,7 +783,7 @@ Si si!</q>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="KS" />
@@ -794,8 +794,8 @@ Si si!</q>
 
 	<entry>
 		<title>Beer is Better than Water</title>
-		<link href="http://travis.servebeer.com/posts/2007/11/04/beer-is-better-than-water" />
-		<id>http://travis.servebeer.com/posts/2007/11/04/beer-is-better-than-water</id>
+		<link href="http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water" />
+		<id>http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water</id>
 		<published>2007-11-04T12:35:00.000Z</published>
 		<updated>2007-11-04T12:35:00.000Z</updated>
 		<summary></summary>
@@ -805,7 +805,7 @@ At least after exercise it is, according to some crazy Spaniards, as reported by
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://travis.servebeer.com/about/</uri>
+			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
 		
 			<category term="beer" />

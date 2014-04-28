@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2008/01/10/e-lec-tri-city" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2008/01/10/e-lec-tri-city" />

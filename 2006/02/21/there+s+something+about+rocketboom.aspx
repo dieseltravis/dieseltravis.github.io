@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/02/21/there-s-something-about-rocketboom" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/02/21/there-s-something-about-rocketboom" />

@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2002/07/16/funny-irc-quotes" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2002/07/16/funny-irc-quotes" />

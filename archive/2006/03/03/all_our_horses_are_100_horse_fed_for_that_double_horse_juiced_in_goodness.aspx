@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/03/03/all-our-horses-are-100-horse-fed-for-that-double-horse-juiced-in-goodness" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/03/03/all-our-horses-are-100-horse-fed-for-that-double-horse-juiced-in-goodness" />

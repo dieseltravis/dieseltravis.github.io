@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2003/06/09/14-35-days-from-today" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2003/06/09/14-35-days-from-today" />

@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/03/22/do-i-need-a-jacket" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/03/22/do-i-need-a-jacket" />

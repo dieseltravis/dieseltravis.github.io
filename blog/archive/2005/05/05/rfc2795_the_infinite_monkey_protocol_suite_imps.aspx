@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/05/05/rfc2795-the-infinite-monkey-protocol-suite-imps" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/05/05/rfc2795-the-infinite-monkey-protocol-suite-imps" />

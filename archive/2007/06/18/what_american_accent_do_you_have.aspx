@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2007/06/18/what-american-accent-do-you-have" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2007/06/18/what-american-accent-do-you-have" />

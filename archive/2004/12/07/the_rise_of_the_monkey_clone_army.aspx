@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/12/07/the-rise-of-the-monkey-clone-army" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/12/07/the-rise-of-the-monkey-clone-army" />

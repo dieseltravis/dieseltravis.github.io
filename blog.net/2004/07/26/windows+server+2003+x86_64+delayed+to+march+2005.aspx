@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/07/26/windows-server-2003-x86_64-delayed-to-march-2005" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/07/26/windows-server-2003-x86_64-delayed-to-march-2005" />

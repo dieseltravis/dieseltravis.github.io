@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/08/30/can-10-000-monkeys-write-an-encyclopedia" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/08/30/can-10-000-monkeys-write-an-encyclopedia" />

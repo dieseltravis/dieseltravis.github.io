@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2008/05/19/top-3-vista-features-that-fail" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2008/05/19/top-3-vista-features-that-fail" />

@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2007/02/07/new-mac-again" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2007/02/07/new-mac-again" />

@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/09/14/peace-has-been-restored-in-iraq-for-several-minutes-now" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/09/14/peace-has-been-restored-in-iraq-for-several-minutes-now" />

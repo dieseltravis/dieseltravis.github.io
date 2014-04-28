@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/01/20/09834-oh-the-weather-outside-is-frightfuletc-09834" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/01/20/09834-oh-the-weather-outside-is-frightfuletc-09834" />

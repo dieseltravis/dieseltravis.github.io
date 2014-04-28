@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/12/08/christmas-in-the-stars-star-wars-christmas-album" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/12/08/christmas-in-the-stars-star-wars-christmas-album" />

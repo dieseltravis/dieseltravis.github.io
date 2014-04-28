@@ -1,1 +1,1 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/02/01/x-prize-for-cars" />
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/02/01/x-prize-for-cars" />
