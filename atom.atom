@@ -3,13 +3,13 @@
   <title>traviblog</title>
   <link href="http://dieseltravis.github.io/"/>
   <link rel="self" href="http://dieseltravis.github.io/atom.atom" />
-  <updated>2014-04-28T23:09:43.000Z</updated>
+  <updated>2014-04-29T15:36:55.000Z</updated>
   <author>
     <name>Travis Hardiman</name>
     <email>travis.hardiman+author@gmail.com</email>
     <uri>http://dieseltravis.github.io/about/</uri>
   </author>
-  <id>http://dieseltravis.github.io</id>
+  <id>http://dieseltravis.github.io/</id>
   <generator uri="https://github.com/dieseltravis/suo" version="0.0.1">suo</generator>
   
     <category term="travis" />
@@ -32,7 +32,9 @@
 		<id>http://dieseltravis.github.io/posts/2014/04/05/frost-pisst</id>
 		<published>2014-04-07T08:04:04.040Z</published>
 		<updated>2014-04-07T08:04:04.040Z</updated>
+		
 		<summary>First post using the node js script that made this site: suo.</summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hey folks, I'm back with a new site.</p><p>TODOs:</p><ul><li>post more stuff</li><li><del>import old stuff</del></li></ul></div></content>
 		<author>
 			<name>Travis Hardiman</name>
@@ -54,7 +56,7 @@
 		<id>http://dieseltravis.github.io/posts/2011/05/13/adding-an-easy-shortcut-to-the-jshint-javascript-validator-to-visual-studio</id>
 		<published>2011-05-13T18:36:30.367Z</published>
 		<updated>2011-05-13T18:36:30.367Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>I went to add <a href="http://travis.servebeer.com/blog.net/2009/08/31/Adding+An+Easy+Shortcut+To+The+JSLint+Javascript+Validator+To+Visual+Studio.aspx">JSLint to my Visual Studio tools</a> and was disappointed that the WSH version has disappeared (or was discontinued). Luckily the new and improved <a href="http://www.jshint.com/">JSHint</a> supports a <a href="https://github.com/jshint/jshint/blob/master/env/wsh.js">WSH wrapper</a>.</p>
 <ol>
 <li><p>Grab <a href="https://github.com/jshint/jshint/">JSHLint</a>.</p></li>
@@ -93,7 +95,7 @@
 		<id>http://dieseltravis.github.io/posts/2010/07/26/embedding-an-xslt-as-a-string-in-a-dll-binary</id>
 		<published>2010-07-26T18:00:05.852Z</published>
 		<updated>2010-07-26T18:00:05.852Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.flickr.com/photos/diesel_travis/4819182556/sizes/o/in/photostream/" style="display:block;float:right;"><img src="http://farm5.static.flickr.com/4082/4819182556_7eefd75c20_d.jpg" width="500" height="233" alt="Project Properties - Resources" style="display:block;" /></a>
 <p>If you want to distribute a class library that relies on an XSL document and only want to worry about a single DLL then this is probably the easiest solution. In Visual Studio follow these commands (and save): Project Properties → Resources → Add Existing file</p>
 <p>In this case, I am embedding a file named <var>Core.xsl</var> with a key named <var>Core</var>. That will generate a bit of code that looks like this:</p>
@@ -155,7 +157,7 @@ public static XslCompiledTransform GetXsl()
 		<id>http://dieseltravis.github.io/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary</id>
 		<published>2010-07-19T22:51:30.414Z</published>
 		<updated>2010-07-19T22:51:30.414Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><img src="http://farm5.static.flickr.com/4134/4819182574_af35276dbd_o.png" alt="Project Properties - Pre-Build Event" width="619" height="383" style="float:right;" />
 <p>Did you know that Microsoft <a href="#20100719-1">provides</a> <a href="#20100719-2">tools</a> to compile XSLT files into DLLs? Neither did I before a client recently suggested that I do that on a recent project. It turns out it's extremely easy.</p>
 <p>Fire up your <a href="http://sourceforge.net/projects/console/">favorite console</a> and run the following:</p>
@@ -214,7 +216,7 @@ Time Elapsed 00:00:02.31</pre>
 		<id>http://dieseltravis.github.io/posts/2009/08/31/adding-an-easy-shortcut-to-the-jslint-javascript-validator-to-visual-studio</id>
 		<published>2009-08-31T20:38:09.547Z</published>
 		<updated>2009-08-31T20:38:09.547Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><strong>Update:</strong> <a href="http://travis.servebeer.com/blog.net/2011/05/13/Adding+An+Easy+Shortcut+To+The+JSHint+Javascript+Validator+To+Visual+Studio.aspx">2011-05-13: JSLint WSH no longer available, see JSHint WSH</a>.</p>
 <hr/>
 <p>Ever <a href="http://twitter.com/travis/status/3535412717" title="me too!">wish that Visual Studio had a JSLint add-in</a>? Inspired by <a href="http://twitter.com/happygiraffe/statuses/3561385301" title="thx @happygiraffe!">a reply to my tweet</a>, I discovered the following solution.</p>
@@ -263,7 +265,7 @@ echo Done.</pre></li>
 		<id>http://dieseltravis.github.io/posts/2009/06/08/welcome-to-the-new-traviblog</id>
 		<published>2009-06-08T07:40:07.113Z</published>
 		<updated>2009-06-08T07:40:07.113Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hello and welcome to the newly re-skinned TraviBlog. This site is running on a version of dasBlog. I forget which version I originally downloaded, but I've heavily modified the source to be standards-compliant, accessible, removed as many images as possible and also added this <a href="http://ecoiron.blogspot.com/2007/01/emergy-c-low-wattage-palette.html">ugly theme</a>. Really though, who cares about the theme since most people read blogs in an RSS reader right?</p>
 <p>If you want the source feel free to post a comment and let me know and I can generate a huge diff file showing the changes that I've made to the original source.</p></div></content>
 		<author>
@@ -284,7 +286,7 @@ echo Done.</pre></li>
 		<id>http://dieseltravis.github.io/posts/2009/02/16/brilliant-css-for-the-kbd-element</id>
 		<published>2009-02-16T12:07:00.000Z</published>
 		<updated>2009-02-16T12:07:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>
 <a href="http://stackoverflow.com/questions/31657/what-html-tags-are-allowed-on-stack-overflow/31979#31979">Stack Overflow recently implemented</a> some brilliant CSS for <a href="http://www.w3.org/TR/html401/struct/text.html#edef-KBD"><code>&lt;kbd&gt;</code></a> tags:
 </p>
@@ -318,7 +320,7 @@ echo Done.</pre></li>
 		<id>http://dieseltravis.github.io/posts/2008/09/22/conversations-around-the-campfire-an-obama-mccain-css-comparison</id>
 		<published>2008-09-22T19:47:00.000Z</published>
 		<updated>2008-09-22T19:47:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>This conversation originated at work when we started comparing the CSS used by McCain and Obama (thanks for the link <a href="https://twitter.com/samuelcole">Sam</a>!)...</p>
 <blockquote>
 <dl>
@@ -394,7 +396,7 @@ echo Done.</pre></li>
 		<id>http://dieseltravis.github.io/posts/2008/09/19/conversations-around-the-campfire-an-apple-palin-comparison</id>
 		<published>2008-09-19T10:17:00.000Z</published>
 		<updated>2008-09-19T10:17:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>This conversation originated at work when <a title="Damn Ralph" href="http://www.damnralph.com/">Ralph</a> and I started flaming our resident MacTard developer, Ernie.</p>
 <blockquote>
 <dl>
@@ -442,7 +444,7 @@ echo Done.</pre></li>
 		<id>http://dieseltravis.github.io/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible</id>
 		<published>2008-07-16T13:21:00.000Z</published>
 		<updated>2008-07-16T13:21:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>After installing SP3 on XP I noticed that Notepad was reverted back to its crappy self, so I decided to write a handy batch script to install <a href="http://www.flos-freeware.ch/notepad2.html">Notepad2</a> again. This script will work in XP SP2+. Place the batch file in the same directory as notepad2.exe and run it.</p>
 <h3>InstallNotepad2XP.bat</h3>
 <pre>@echo off
@@ -491,7 +493,7 @@ copy %npath%\notepad.exe %npath%\notepad.original%count%.exe /y
 		<id>http://dieseltravis.github.io/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d</id>
 		<published>2008-07-16T10:28:00.000Z</published>
 		<updated>2008-07-16T10:28:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><object type="application/x-shockwave-flash" data="http://widgets.clearspring.com/o/4876179bb94ab3d9/487dfa98c0b554f7/4876179bb94ab3d9/b0031db4" id="W4876179bb94ab3d9487dfa98c0b554f7" height="304" width="354"><param value="http://widgets.clearspring.com/o/4876179bb94ab3d9/487dfa98c0b554f7/4876179bb94ab3d9/b0031db4" name="movie" /><param value="transparent" name="wmode" /><param value="all" name="allowNetworking" /><param value="always" name="allowScriptAccess" /></object>
 <p>It's actually kinda <a href="http://drhorrible.com/">funny</a>.</p>
 <p>(if you were looking for more <a href="http://www.hulu.com/doogie-howser-md" title="really, can anyone get enough doogie?">Doogie, Hulu</a> will save the day)</p></div></content>
@@ -511,7 +513,7 @@ copy %npath%\notepad.exe %npath%\notepad.original%count%.exe /y
 		<id>http://dieseltravis.github.io/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery</id>
 		<published>2008-05-22T00:02:00.000Z</published>
 		<updated>2008-05-22T00:02:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ernie sent <a href="http://project.ioni.st/post/2169#snippet_2169">this ruby snippet</a> and marveled at its brilliant simplicity:</p>
 <pre>
 class Date  
@@ -575,7 +577,7 @@ function rand(lowerBound, upperBound) {
 		<id>http://dieseltravis.github.io/posts/2008/05/19/top-3-vista-features-that-fail</id>
 		<published>2008-05-19T19:03:00.000Z</published>
 		<updated>2008-05-19T19:03:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><a href="http://www.flickr.com/photos/diesel_travis/2500374738/" title="over 40 seconds to extract a 2.33MB zip file by T-Rav, on Flickr"><img src="http://farm4.static.flickr.com/3058/2500374738_72060cee20.jpg" width="500" height="299" alt="over 40 seconds to extract a 2.33MB zip file" style="float:right;" /></a>
 <p>I installed Vista Ultimate x64 recently and there are three things that I've disabled (so far).</p>
 <dl>
@@ -607,7 +609,7 @@ function rand(lowerBound, upperBound) {
 		<id>http://dieseltravis.github.io/posts/2008/03/29/prk</id>
 		<published>2008-03-30T00:51:00.000Z</published>
 		<updated>2008-03-30T00:51:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img src="http://i26.tinypic.com/2pzk93b.gif" alt="Travis gets eyes lasered" style="float:right;" /> I had <a href="http://www.stronghealth.com/services/strongvision/procedures/lasek.cfm">PRK</a> surgery on 3/18/2008 and I thought I'd post how it went for others who're thinking about getting it. PRK is the exact same price as LASIK, uses the exact same excimer laser, but has a significantly longer heal time and is more painful. People who have poor near-sightedness, large pupils, and/or thin corneas are generally not the best candidates for LASIK, and that is where PRK comes in.</p> 
 <p><strong>Short version</strong>: if you're as fed up with glasses/contacts as I was, you're patient and you're not a candidate for LASIK, get it. And the long version...
 </p>
@@ -646,7 +648,7 @@ While some people can see 20/20 after the first 5 days with PRK, it wasn't that 
 		<id>http://dieseltravis.github.io/posts/2008/03/14/hope-change</id>
 		<published>2008-03-14T09:57:00.000Z</published>
 		<updated>2008-03-14T09:57:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://tinypic.com/view.php?pic=2m4pr1l&amp;s=3"><img src="http://i28.tinypic.com/2m4pr1l.jpg" alt="HOPE" /></a><a href="http://tinypic.com/view.php?pic=28kr5l5&amp;s=3"><img src="http://i32.tinypic.com/28kr5l5.jpg" alt="CHANGE" /></a></p>
 <p>These print out nicely on an 11x17 sheet <img alt="*wink*" src="http://travis.servebeer.com/blog.net/smilies/wink.gif" /> <em>or</em> you can try to <a href="http://store.barackobama.com/Artist_For_Obamas_s/1018.htm" title="Artists for Obama">buy one directly from the site</a>.</p></div></content>
 		<author>
@@ -665,7 +667,7 @@ While some people can see 20/20 after the first 5 days with PRK, it wasn't that 
 		<id>http://dieseltravis.github.io/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free</id>
 		<published>2008-03-06T00:42:00.000Z</published>
 		<updated>2008-03-06T00:42:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>The Corel software that came with my new <a href="http://www.flickr.com/photos/diesel_travis/2262254654/">Canon HG10</a> made burning a video DVD or an AVCHD DVD a snap. Unfortunately, it came with nothing that would transcode the video files into more commonly supported formats like MP4 (or AVI) so that they can be easily edited and/or uploaded to sites like <a href="http://www.vimeo.com/hd">Vimeo</a> (or Youtube or whatever). I tried a bunch of different apps (FFmpeg, Mencoder, Avidemux, MediaCoder all FAIL) but this process worked the best for me.</p>
 <h2>Downloads</h2>
 <p>Three basic things needed to download:</p>
@@ -727,7 +729,7 @@ LanczosResize(1280,720) # Lanczos (Sharp)</pre>
 		<id>http://dieseltravis.github.io/posts/2008/02/05/can-t-get-enough-travis</id>
 		<published>2008-02-05T20:39:00.000Z</published>
 		<updated>2008-02-05T20:39:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>
 ...you can always check out <a href="http://www.google.com/reader/shared/02056987982871824493" title="yay Google!">Travis' shared items on Google Reader</a> (<a href="http://www.google.com/reader/public/atom/user/02056987982871824493/state/com.google/broadcast" title="of course!">XML</a>). Also, <a href="http://twitter.com/travis" title="travis on twitter">twitter</a>.
 </p></div></content>
@@ -749,7 +751,7 @@ LanczosResize(1280,720) # Lanczos (Sharp)</pre>
 		<id>http://dieseltravis.github.io/posts/2008/01/10/e-lec-tri-city</id>
 		<published>2008-01-10T22:05:00.000Z</published>
 		<updated>2008-01-10T22:05:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><blockquote>
 <p><q><a href="http://www.newsday.com/news/local/wire/newyork/ny-bc-ny--severeweather-ny0110jan10,0,2738871.story">E-lec-tri-city!</a><br />
 AC!<br />
@@ -777,7 +779,7 @@ Si si!</q>
 		<id>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris</id>
 		<published>2007-11-14T21:53:00.000Z</published>
 		<updated>2007-11-14T21:53:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img src="http://farm3.static.flickr.com/2284/2020621097_3ee55befc2_o_d.png" alt="Current Beard Alert Level: Chuck Norris" /></p>
 <p>Historically, it's never been higher than Chuck Norris, but you never know.</p></div></content>
 		<author>
@@ -798,7 +800,7 @@ Si si!</q>
 		<id>http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water</id>
 		<published>2007-11-04T12:35:00.000Z</published>
 		<updated>2007-11-04T12:35:00.000Z</updated>
-		<summary></summary>
+		
 		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>
 At least after exercise it is, according to some crazy Spaniards, as reported by <a href="http://www.foxnews.com/story/0,2933,307518,00.html">Fox News</a>. Even though it has a bit of shaky credibility, and a spelling error in the first sentence of the first paragraph, it's enough evidence to convince me.
 </p></div></content>
