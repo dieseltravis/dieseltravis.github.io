@@ -7,8 +7,8 @@
 	<atom:link href="http://dieseltravis.github.io/rss.rss" rel="self" type="application/rss+xml" />
 	<language>en-us</language>
 	<copyright>© Travis Hardiman, et al. 1979-2079.</copyright>
-	<lastBuildDate>Wed, 30 Apr 2014 17:06:30 GMT</lastBuildDate>
-	<pubDate>Wed, 30 Apr 2014 17:06:30 GMT</pubDate>
+	<lastBuildDate>Fri, 02 May 2014 23:08:58 GMT</lastBuildDate>
+	<pubDate>Fri, 02 May 2014 23:08:58 GMT</pubDate>
 	<ttl>43200</ttl>
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	
@@ -26,7 +26,7 @@
 		<link>http://dieseltravis.github.io/</link>
 	</image>
 	<rating></rating>
-	<generator>suo 0.0.1 https://github.com/dieseltravis/suo</generator>
+	<generator>suo 0.0.2 https://github.com/dieseltravis/suo</generator>
 	<managingEditor>travis.hardiman+editor@gmail.com (Travis Hardiman)</managingEditor>
 	<webMaster>travis.hardiman+webmaster@gmail.com (Travis Hardiman)</webMaster>
 
