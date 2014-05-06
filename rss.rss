@@ -7,8 +7,8 @@
 	<atom:link href="http://dieseltravis.github.io/rss.rss" rel="self" type="application/rss+xml" />
 	<language>en-us</language>
 	<copyright>© Travis Hardiman, et al. 1979-2079.</copyright>
-	<lastBuildDate>Mon, 05 May 2014 16:23:20 GMT</lastBuildDate>
-	<pubDate>Mon, 05 May 2014 16:23:20 GMT</pubDate>
+	<lastBuildDate>Tue, 06 May 2014 05:11:43 GMT</lastBuildDate>
+	<pubDate>Tue, 06 May 2014 05:11:43 GMT</pubDate>
 	<ttl>43200</ttl>
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	
@@ -30,6 +30,25 @@
 	<managingEditor>travis.hardiman+editor@gmail.com (Travis Hardiman)</managingEditor>
 	<webMaster>travis.hardiman+webmaster@gmail.com (Travis Hardiman)</webMaster>
 
+	
+	<item>
+		<title>Static Asset Versioning</title>
+		<description>A lazy and easy way to version assets.</description>
+		<link>http://dieseltravis.github.io/posts/2014/05/05/static-asset-versioning</link>
+		<guid>http://dieseltravis.github.io/posts/2014/05/05/static-asset-versioning</guid>
+		<pubDate>Tue, 06 May 2014 03:00:00 GMT</pubDate>
+		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
+		
+			<category>javascript</category>
+		
+			<category>programming</category>
+		
+		<comments>http://dieseltravis.github.io/posts/2014/05/05/static-asset-versioning#disqus_thread</comments>
+		
+		
+		<source url="https://github.com/dieseltravis/suo">dieseltravis / suo</source>
+		
+	</item>
 	
 	<item>
 		<title>Frost Pisst</title>
@@ -338,21 +357,6 @@
 			<category>local</category>
 		
 		<comments>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris#disqus_thread</comments>
-		
-		
-	</item>
-	
-	<item>
-		<title>Beer is Better than Water</title>
-		<description></description>
-		<link>http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water</link>
-		<guid>http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water</guid>
-		<pubDate>Sun, 04 Nov 2007 12:35:00 GMT</pubDate>
-		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
-		
-			<category>beer</category>
-		
-		<comments>http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water#disqus_thread</comments>
 		
 		
 	</item>

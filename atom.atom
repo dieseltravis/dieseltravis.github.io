@@ -3,7 +3,7 @@
   <title>traviblog</title>
   <link href="http://dieseltravis.github.io/"/>
   <link rel="self" href="http://dieseltravis.github.io/atom.atom" />
-  <updated>2014-05-05T16:23:20.000Z</updated>
+  <updated>2014-05-06T05:11:43.000Z</updated>
   <author>
     <name>Travis Hardiman</name>
     <email>travis.hardiman+author@gmail.com</email>
@@ -25,6 +25,28 @@
   <rights>© Travis Hardiman, et al. 1979-2079.</rights>
   <subtitle>the enterprising blog with the home-made touch</subtitle>
 
+
+	<entry>
+		<title>Static Asset Versioning</title>
+		<link href="http://dieseltravis.github.io/posts/2014/05/05/static-asset-versioning" />
+		<id>http://dieseltravis.github.io/posts/2014/05/05/static-asset-versioning</id>
+		<published>2014-05-06T03:00:00.000Z</published>
+		<updated>2014-05-06T03:00:00.000Z</updated>
+		
+		<summary>A lazy and easy way to version assets.</summary>
+		
+		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>One of the things that I used with <a href="https://github.com/dieseltravis/suo">suo</a>, was versioning CSS and JS files. There are existing ways of doing this with <a href="https://github.com/theasta/grunt-assets-versioning">grunt</a>, <a href="https://www.npmjs.org/package/node-version-assets">node</a>, or by hand. Since I'm still new to how node works I thought it would be a good learning exercise. The old way of doing this was to append a querystring to the linked file but certain firewalls don't cache files with querystrings.</p><p>I initially tried generating checksums but the resulting hashes were too huge. I didn't want to use more bytes than necessary so I used the last modified datetime of the file. I basically just converted the time in milliseconds to a custom base. <a href="https://gist.github.com/dieseltravis/9848160">Nothing too special about the custom number base code</a>. The 66 characters I used were all ones that don't have to be escaped when they're used in URLs. If they had to be escaped it would just add bytes.</p><p>To shorten the hashes more I divided by 60,000 to use the nearest minute, and then I subtracted a more recent date that would serve as the new zero. As of right now the hashes are just 3 characters. I wrote a little <a href="https://github.com/dieseltravis/suo/blob/master/suo.js#L328">helper for handlebars</a> that uses the original filename as a key and the renamed as the value.</p><p>After all this, it turns out that Github Pages only sets the cache for 10 minutes instead of the far future which defeats the whole purpose altogether.</p></div></content>
+		<author>
+			<name>Travis Hardiman</name>
+			<email>travis.hardiman+author@gmail.com</email>
+			<uri>http://dieseltravis.github.io/about/</uri>
+		</author>
+		
+			<category term="javascript" />
+		
+			<category term="programming" />
+		
+	</entry>
 
 	<entry>
 		<title>Frost Pisst</title>
@@ -791,26 +813,6 @@ Si si!</q>
 			<category term="KS" />
 		
 			<category term="local" />
-		
-	</entry>
-
-	<entry>
-		<title>Beer is Better than Water</title>
-		<link href="http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water" />
-		<id>http://dieseltravis.github.io/posts/2007/11/04/beer-is-better-than-water</id>
-		<published>2007-11-04T12:35:00.000Z</published>
-		<updated>2007-11-04T12:35:00.000Z</updated>
-		
-		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>
-At least after exercise it is, according to some crazy Spaniards, as reported by <a href="http://www.foxnews.com/story/0,2933,307518,00.html">Fox News</a>. Even though it has a bit of shaky credibility, and a spelling error in the first sentence of the first paragraph, it's enough evidence to convince me.
-</p></div></content>
-		<author>
-			<name>Travis Hardiman</name>
-			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://dieseltravis.github.io/about/</uri>
-		</author>
-		
-			<category term="beer" />
 		
 	</entry>
 

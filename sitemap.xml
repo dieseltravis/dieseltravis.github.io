@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 	<url>
+		<loc>http://dieseltravis.github.io/posts/2014/05/05/static-asset-versioning</loc>
+		<lastmod>2014-05-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
 		<loc>http://dieseltravis.github.io/posts/2014/04/05/frost-pisst</loc>
 		<lastmod>2014-04-07</lastmod>
 		<changefreq>monthly</changefreq>
