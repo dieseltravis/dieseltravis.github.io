@@ -2,7 +2,7 @@
   "version": "0.0.2",
   "name": "traviblog",
   "launch_path": "/index.html",
-  "description": "the enterprising blog with the home-made touch",
+  "description": "just some sort of lame blog",
   "icons": {
     "8": "/favicon.ico",
     "16": "/favicon.ico",
@@ -24,7 +24,7 @@
   "locales": {
     "en-us": {
       "name": "traviblog",
-      "description": "the enterprising blog with the home-made touch"
+      "description": "just some sort of lame blog"
     }
   }
 }

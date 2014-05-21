@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 	<title>traviblog</title>
-	<description>the enterprising blog with the home-made touch</description>
+	<description>just some sort of lame blog</description>
 	<link>http://dieseltravis.github.io/</link>
 	<atom:link href="http://dieseltravis.github.io/rss.rss" rel="self" type="application/rss+xml" />
 	<language>en-us</language>
 	<copyright>© Travis Hardiman, et al. 1979-2079.</copyright>
-	<lastBuildDate>Thu, 15 May 2014 22:18:10 GMT</lastBuildDate>
-	<pubDate>Thu, 15 May 2014 22:18:10 GMT</pubDate>
+	<lastBuildDate>Wed, 21 May 2014 03:38:08 GMT</lastBuildDate>
+	<pubDate>Wed, 21 May 2014 03:38:08 GMT</pubDate>
 	<ttl>43200</ttl>
 	<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 	
@@ -30,6 +30,25 @@
 	<managingEditor>travis.hardiman+editor@gmail.com (Travis Hardiman)</managingEditor>
 	<webMaster>travis.hardiman+webmaster@gmail.com (Travis Hardiman)</webMaster>
 
+	
+	<item>
+		<title>Hey, Travis, Why Do You Need My Location?</title>
+		<description>It&#x27;s just for the weather.</description>
+		<link>http://dieseltravis.github.io/posts/2014/05/20/navigator-geolocation</link>
+		<guid>http://dieseltravis.github.io/posts/2014/05/20/navigator-geolocation</guid>
+		<pubDate>Wed, 21 May 2014 03:00:00 GMT</pubDate>
+		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
+		
+			<category>javascript</category>
+		
+			<category>programming</category>
+		
+		<comments>http://dieseltravis.github.io/posts/2014/05/20/navigator-geolocation#disqus_thread</comments>
+		
+		
+		<source url="https://github.com/dieseltravis/suo">dieseltravis / suo</source>
+		
+	</item>
 	
 	<item>
 		<title>Static Asset Versioning</title>
@@ -340,23 +359,6 @@
 			<category>local</category>
 		
 		<comments>http://dieseltravis.github.io/posts/2008/01/10/e-lec-tri-city#disqus_thread</comments>
-		
-		
-	</item>
-	
-	<item>
-		<title>Current Beard Alert Level: Chuck Norris</title>
-		<description></description>
-		<link>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris</link>
-		<guid>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris</guid>
-		<pubDate>Wed, 14 Nov 2007 21:53:00 GMT</pubDate>
-		<author>travis.hardiman+author@gmail.com (Travis Hardiman)</author>
-		
-			<category>KS</category>
-		
-			<category>local</category>
-		
-		<comments>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris#disqus_thread</comments>
 		
 		
 	</item>

@@ -3,7 +3,7 @@
   <title>traviblog</title>
   <link href="http://dieseltravis.github.io/"/>
   <link rel="self" href="http://dieseltravis.github.io/atom.atom" />
-  <updated>2014-05-15T22:18:10.000Z</updated>
+  <updated>2014-05-21T03:38:08.000Z</updated>
   <author>
     <name>Travis Hardiman</name>
     <email>travis.hardiman+author@gmail.com</email>
@@ -23,8 +23,30 @@
   <icon>http://dieseltravis.github.io/favicon.ico</icon>
   <logo>http://dieseltravis.github.io/i/i/logo.png</logo>
   <rights>© Travis Hardiman, et al. 1979-2079.</rights>
-  <subtitle>the enterprising blog with the home-made touch</subtitle>
+  <subtitle>just some sort of lame blog</subtitle>
 
+
+	<entry>
+		<title>Hey, Travis, Why Do You Need My Location?</title>
+		<link href="http://dieseltravis.github.io/posts/2014/05/20/navigator-geolocation" />
+		<id>http://dieseltravis.github.io/posts/2014/05/20/navigator-geolocation</id>
+		<published>2014-05-21T03:00:00.000Z</published>
+		<updated>2014-05-21T03:00:00.000Z</updated>
+		
+		<summary>It&#x27;s just for the weather.</summary>
+		
+		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>With HTML5 you can always view-source. On this site, I'm using <code>window.navigator.geolocation.getCurrentPosition</code> to get the longitude and latitude. Then with those I use the <a href="http://www.worldweatheronline.com/">nice free api provided by worldweatheronline.com</a>. The gist of what happens before it gets minified <a href="http://jsbin.com/jimaxo/1/edit?html,js,output">is in this JSBin</a>. I then take the resulting value for the current conditions an display a little CSS animated node that scrolls across. Learn more about geolocation at <a href="http://diveintohtml5.info/geolocation.html" title="by Mark Pilgrim">Dive Into HTML5</a> and <a href="https://developer.mozilla.org/en-US/docs/WebAPI/Using_geolocation">MDN's WebAPI geolocation documentation</a>.</p></div></content>
+		<author>
+			<name>Travis Hardiman</name>
+			<email>travis.hardiman+author@gmail.com</email>
+			<uri>http://dieseltravis.github.io/about/</uri>
+		</author>
+		
+			<category term="javascript" />
+		
+			<category term="programming" />
+		
+	</entry>
 
 	<entry>
 		<title>Static Asset Versioning</title>
@@ -57,7 +79,7 @@
 		
 		<summary>First post using the node js script that made this site: suo.</summary>
 		
-		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hey folks, I'm back with a new site.</p><p>TODOs:</p><ul><li>post more stuff</li><li><del>import old stuff</del></li></ul></div></content>
+		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hey folks, I'm back with a new site.</p><p>TODOs:</p><ul><li>post more stuff</li><li><del>import old stuff</del></li></ul><p><strong>Edit:</strong> everything before this is old and YMMV.</p></div></content>
 		<author>
 			<name>Travis Hardiman</name>
 			<email>travis.hardiman+author@gmail.com</email>
@@ -790,27 +812,6 @@ Si si!</q>
 			<email>travis.hardiman+author@gmail.com</email>
 			<uri>http://dieseltravis.github.io/about/</uri>
 		</author>
-		
-			<category term="local" />
-		
-	</entry>
-
-	<entry>
-		<title>Current Beard Alert Level: Chuck Norris</title>
-		<link href="http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris" />
-		<id>http://dieseltravis.github.io/posts/2007/11/14/current-beard-alert-level-chuck-norris</id>
-		<published>2007-11-14T21:53:00.000Z</published>
-		<updated>2007-11-14T21:53:00.000Z</updated>
-		
-		<content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img src="http://farm3.static.flickr.com/2284/2020621097_3ee55befc2_o_d.png" alt="Current Beard Alert Level: Chuck Norris" /></p>
-<p>Historically, it's never been higher than Chuck Norris, but you never know.</p></div></content>
-		<author>
-			<name>Travis Hardiman</name>
-			<email>travis.hardiman+author@gmail.com</email>
-			<uri>http://dieseltravis.github.io/about/</uri>
-		</author>
-		
-			<category term="KS" />
 		
 			<category term="local" />
 		
