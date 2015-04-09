@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/12/22/to-gmail-spam-filter-merry-christmas-from-worm-zafi-d-part-2" />

@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/08/04/from-air-to-water-skipping-over-liquid-metal-and-going-to-thermal-electric" />

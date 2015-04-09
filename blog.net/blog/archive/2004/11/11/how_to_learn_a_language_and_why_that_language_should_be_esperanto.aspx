@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/11/11/how-to-learn-a-language-and-why-that-language-should-be-esperanto" />

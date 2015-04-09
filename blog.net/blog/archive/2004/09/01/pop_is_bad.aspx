@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/09/01/pop-is-bad" />

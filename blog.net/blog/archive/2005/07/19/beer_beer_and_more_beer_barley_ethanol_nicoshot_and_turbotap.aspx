@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/07/19/beer-beer-and-more-beer-barley-ethanol-nicoshot-and-turbotap" />

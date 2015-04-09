@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/04/22/spamusement-monkeys-turned-into-workaholics" />

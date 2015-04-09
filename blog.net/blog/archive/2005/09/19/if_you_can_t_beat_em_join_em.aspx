@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/09/19/if-you-can-t-beat-em-join-em" />

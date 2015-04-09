@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2008/07/16/so-that-s-what-happened-to-doogie-howser-m-d" />

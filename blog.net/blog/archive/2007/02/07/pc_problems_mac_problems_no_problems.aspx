@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2007/02/07/pc-problems-mac-problems-no-problems" />

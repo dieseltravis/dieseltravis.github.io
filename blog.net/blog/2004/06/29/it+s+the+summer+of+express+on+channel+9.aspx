@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/06/29/it-s-the-summer-of-express-on-channel-9" />

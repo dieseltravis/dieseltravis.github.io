@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/10/19/700-bear-vs-man-w-shotgun-result-draw" />

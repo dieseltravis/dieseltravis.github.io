@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/10/27/hedonism-bots-or-how-robotic-monkeys-will-take-over-the-planet" />

@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2008/07/16/replacing-notepad-with-notepad-2-on-xp-sp3-the-easiest-way-possible" />

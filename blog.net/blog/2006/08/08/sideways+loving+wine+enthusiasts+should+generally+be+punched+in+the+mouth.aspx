@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/08/08/sideways-loving-wine-enthusiasts-should-generally-be-punched-in-the-mouth" />

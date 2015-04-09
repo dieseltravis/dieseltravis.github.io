@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/08/15/martial-arts-proven-to-be-just-as-awesome-as-it-looks" />

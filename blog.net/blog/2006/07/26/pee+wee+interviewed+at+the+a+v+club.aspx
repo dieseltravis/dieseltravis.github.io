@@ -1,0 +1,1 @@
+﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/07/26/pee-wee-interviewed-at-the-a-v-club" />

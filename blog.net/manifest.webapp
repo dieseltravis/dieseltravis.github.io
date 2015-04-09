@@ -1,0 +1,30 @@
+﻿{
+  "version": "0.0.2",
+  "name": "traviblog",
+  "launch_path": "/index.html",
+  "description": "just some sort of lame blog",
+  "icons": {
+    "8": "/favicon.ico",
+    "16": "/favicon.ico",
+    "32": "/favicon.ico",
+    "48": "/favicon.ico",
+    "64": "/favicon.ico",
+    "128": "/favicon.ico"
+  },
+  "developer": {
+    "name": "Travis Hardiman",
+    "url": "http://dieseltravis.github.io/"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en-us",
+  "permissions": {
+  },
+  "locales": {
+    "en-us": {
+      "name": "traviblog",
+      "description": "just some sort of lame blog"
+    }
+  }
+}
