@@ -3,14 +3,14 @@
     Rochester, New York, USA
 
 /* THANKS to all of the fine people at the following orgs */
-    Brandlogic (brandlogic.com)
+    Tenet Partners (tenetpartners.com)
     Rochester.JS (rochesterjs.org)
     jQuery (jquery.com)
     CSS-Tricks (css-tricks.com)
     Mozilla (mozilla.org)
 
 /* SITE info */
-    Last update: 2014/04/04
+    Last update: 2015/10/15
     Language: English
     web: jQuery, modernizr, h5bp
     svc: World Weather Online, disqus
@@ -24,7 +24,7 @@
     │ ╚════╗ 2 ╔════╝ │
     └────┐ ║ 0 ║ ┌────┘
          │ ║ 1 ║ │    
-         │ ║ 4 ║ │    
+         │ ║ 5 ║ │    
          │ ╚═══╝ │    
          └───────┘     
 
@@ -96,4 +96,4 @@ ebs1
             #WUTANGCLAN   WUTANG#          
                 '"WUWU#   WUWU#.           
                          #WU              
-                                           2014
+                                           2015
