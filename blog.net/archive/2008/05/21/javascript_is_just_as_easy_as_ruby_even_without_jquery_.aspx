@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2008/05/21/javascript-is-just-as-easy-as-ruby-even-without-jquery-" />

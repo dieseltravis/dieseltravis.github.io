@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/04/20/i-love-j-w-dundee-s-honey-brown-butetc" />

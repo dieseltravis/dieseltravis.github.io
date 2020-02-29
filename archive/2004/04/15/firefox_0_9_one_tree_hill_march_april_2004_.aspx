@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/04/15/firefox-0-9-one-tree-hill-march-april-2004-" />

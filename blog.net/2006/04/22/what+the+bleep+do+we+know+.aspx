@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/04/22/what-the-bleep-do-we-know-" />

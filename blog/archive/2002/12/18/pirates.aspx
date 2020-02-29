@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2002/12/18/pirates" />

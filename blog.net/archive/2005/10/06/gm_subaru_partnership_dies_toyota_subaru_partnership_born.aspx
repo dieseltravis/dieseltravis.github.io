@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/10/06/gm-subaru-partnership-dies-toyota-subaru-partnership-born" />

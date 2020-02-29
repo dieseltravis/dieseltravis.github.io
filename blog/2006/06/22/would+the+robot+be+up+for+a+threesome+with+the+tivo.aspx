@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/06/22/would-the-robot-be-up-for-a-threesome-with-the-tivo" />

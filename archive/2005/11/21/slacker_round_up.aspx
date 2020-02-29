@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/11/21/slacker-round-up" />

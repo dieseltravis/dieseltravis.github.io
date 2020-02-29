@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2011/05/13/adding-an-easy-shortcut-to-the-jshint-javascript-validator-to-visual-studio" />

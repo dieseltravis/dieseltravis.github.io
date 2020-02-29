@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2002/11/19/-alert-serious-microsoft-bug-" />

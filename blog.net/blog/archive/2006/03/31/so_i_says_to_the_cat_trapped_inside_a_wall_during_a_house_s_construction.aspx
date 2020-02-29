@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2006/03/31/so-i-says-to-the-cat-trapped-inside-a-wall-during-a-house-s-construction" />

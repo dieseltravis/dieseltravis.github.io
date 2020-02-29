@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2009/02/16/brilliant-css-for-the-kbd-element" />

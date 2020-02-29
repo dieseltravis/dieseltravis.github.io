@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/12/14/hanukkah-beer-he-brew-the-chosen-beer" />

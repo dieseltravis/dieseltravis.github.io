@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2010/07/19/compiling-an-xslt-into-a-dll-binary" />

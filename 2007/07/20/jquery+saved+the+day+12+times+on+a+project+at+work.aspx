@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2007/07/20/jquery-saved-the-day-12-times-on-a-project-at-work" />

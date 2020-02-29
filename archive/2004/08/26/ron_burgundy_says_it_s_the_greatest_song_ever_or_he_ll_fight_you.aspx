@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/08/26/ron-burgundy-says-it-s-the-greatest-song-ever-or-he-ll-fight-you" />

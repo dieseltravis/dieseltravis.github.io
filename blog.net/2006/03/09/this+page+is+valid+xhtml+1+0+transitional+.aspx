@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2006/03/09/this-page-is-valid-xhtml-1-0-transitional-" />

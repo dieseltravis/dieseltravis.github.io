@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/02/17/the-weather-change-twice-a-week-rochester-ny" />

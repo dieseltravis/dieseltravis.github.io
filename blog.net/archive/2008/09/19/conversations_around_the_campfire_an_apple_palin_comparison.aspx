@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2008/09/19/conversations-around-the-campfire-an-apple-palin-comparison" />

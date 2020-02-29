@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2007/03/10/march-a-month-of-riaa-boycotting-and-independent-music-supporting-" />

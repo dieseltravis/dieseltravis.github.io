@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/09/19/if-you-can-t-beat-em-join-emetc" />

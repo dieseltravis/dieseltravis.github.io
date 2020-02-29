@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2005/02/05/just-when-i-thought-i-had-a-good-ideaetc" />

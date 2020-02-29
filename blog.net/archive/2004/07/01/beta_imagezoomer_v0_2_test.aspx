@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2004/07/01/beta-imagezoomer-v0-2-test" />

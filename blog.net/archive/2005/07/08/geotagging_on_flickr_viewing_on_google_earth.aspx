@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2005/07/08/geotagging-on-flickr-viewing-on-google-earth" />

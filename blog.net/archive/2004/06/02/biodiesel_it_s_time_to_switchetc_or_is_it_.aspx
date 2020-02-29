@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2004/06/02/biodiesel-it-s-time-to-switchetc-or-is-it-" />

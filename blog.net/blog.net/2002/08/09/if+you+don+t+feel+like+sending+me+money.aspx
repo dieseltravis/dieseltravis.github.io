@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://dieseltravis.github.io/posts/2002/08/09/if-you-don-t-feel-like-sending-me-money" />

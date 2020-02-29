@@ -1,1 +1,0 @@
-﻿<meta http-equiv="refresh" content="0; url=http://travis.servebeer.com/posts/2008/03/05/converting-an-avchd-m2ts-video-file-into-something-usable-for-free-" />
