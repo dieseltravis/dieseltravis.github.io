@@ -22,16 +22,17 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  predeploy:
+  pages-directory-listing:
+    runs-on: ubuntu-latest
+    name: Directory Listings Index
     permissions:
       pages: write      # to deploy to Pages
       id-token: write   # to verify the deployment originates from an appropriate source
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository (again?)
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -40,16 +41,7 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      #- name: Deploy to GitHub Pages
-      #  id: deployment
-      #  uses: actions/deploy-pages@v4
-  pages-directory-listing:
-    needs: predeploy
-    runs-on: ubuntu-latest
-    name: Directory Listings Index
-    steps:
-      - name: Checkout Repository (again?)
-        uses: actions/checkout@v4
+      
       - name: Generate Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
