@@ -1,21 +1,16 @@
 /* TEAM is just me */
-    Travis Hardiman (@travis)
+    Travis Hardiman (@travis@social.lol)
     Rochester, New York, USA
 
 /* THANKS to all of the fine people at the following orgs */
     Tenet Partners (tenetpartners.com)
-    Rochester.JS (rochesterjs.org)
-    jQuery (jquery.com)
-    CSS-Tricks (css-tricks.com)
+    RocDev (roc.dev)
     Mozilla (mozilla.org)
 
 /* SITE info */
-    Last update: 2015/10/15
+    Last update: 2025/01/12
     Language: English
-    web: jQuery, modernizr, h5bp
-    svc: World Weather Online, disqus
-    suo: node, ruby, sass, compass
-    IDE: JS Bin, Visual Studio Express, Notepad2, github
+    IDE: JS Bin, Visual Studio Code, Notepad2, github
     img: Paint.Net, png2ico
 
     ┌─────────────────┐
@@ -23,40 +18,10 @@
     │ ║ *traviblog* ║ │
     │ ╚════╗ 2 ╔════╝ │
     └────┐ ║ 0 ║ ┌────┘
-         │ ║ 1 ║ │    
+         │ ║ 2 ║ │    
          │ ║ 5 ║ │    
          │ ╚═══╝ │    
          └───────┘     
-
-
-
-
-
-
-
-
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.1.14
-Comment: https://keybase.io/crypto
-
-wcBMA1SQme5FFAwYAQf9EiPJ4s50y6SNHPE/NkTbRZDr4N7k3WOgmBe2BRUXBLJQ
-GNMqDozDHMBHf1KmrHXwWoz8V3VUf/XdWx1oNIkguTMU9eHyX0ZrcRfL1YFCdYHJ
-IlXRSDyRSM41mwGvK2JX0P3EaqZvW+OC5vfT8gq5498HBVH/P+k4gL2EWh9xADWQ
-xMnGAsn5rY62v7a436wHiJu+E39p+1xAxmMMp7SlKU6oUWtGauoP7RQ8BxJGJpMK
-ZGsEm/rYoHwK7IiXSHLyXnIQ34Ik3Fq+PRxjkCPr+pOiiGx8NKhKtb9a4EAoUBwV
-fHcvnBneDWFB9XdO/WBMRnMU5pvBf27LprFPAba48tLBAQGOJjUXPho2dG/iQsyI
-uVVTlPDb0PLXZLVmcZHz8GWQEr6hUPEIxhqy/TWramTLdHrHw4dg+SqAZfQl0WYY
-5NqS+lQ+Vp7f4y7BxLaS2nWo0YLHTODbz8xVTtGHZiiwVbCyGrYeiPMInqDM7GA9
-qLVoNyQNBpklDV3KGUPPiseOlpCGcsjq2NEEBQ65X3X0u6WxIhOMl0Y3qMUEcEk9
-MLllU+VxikpGdqSZQkfuyhxG1ig2yG8pigW7d181npOpSlKVz0FsVQuaAtoFO0k4
-RF2wRcu4n4ZzhnhtZUJs9L7fOhHFKu9GAm/1os7OOaSvV5JoinxoviD1CLfPbdZG
-3U/Z6k5lxN/BoGE7V29dkcrAcrFeH65PjtsK99hZKdAhFxniWw78kSuKJUnShiml
-clyTYD/0AhXQmAzrUUFdzKGMMGQKZgpEPRqAHREHk+ELpfaXqoXqIkiDEdLhtsMr
-8nm4VDcq6y3OwGQivGek1BRe0HXnOfLO3ZFq46oFbmGuOjiVrqZqA+XR/jKq4iMo
-Ekbh4oYxLWBLSChmc3Oc+7pdQILDphI7aGgv8MUNgbmHe9xcAzJNYimX4zi+b7QU
-ebs1
-=/EuY
------END PGP MESSAGE-----
 
 
 
