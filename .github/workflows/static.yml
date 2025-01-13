@@ -53,14 +53,14 @@ jobs:
         #  ref: main    #checkout different branch
 
       - name: Generate Directory Listings
-        uses: jayanta525/github-pages-directory-listing@v4.0.0
+        uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: './gifs'      # upload generated folder
+          path: './gifs/'      # upload generated folder
   # Single deploy job since we're just deploying
   deploy2:
     needs: pages-directory-listing
