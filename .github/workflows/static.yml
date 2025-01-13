@@ -28,8 +28,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          ref: main    #checkout different branch
+        #with:
+        #  ref: main    #checkout different branch
 
       - name: Generate Directory Listings
         uses: jayanta525/github-pages-directory-listing@v4.0.0
@@ -60,6 +60,10 @@ jobs:
       #  with:
       #    # Upload entire repository
       #    path: '.'
+      #- name: Deploy to GitHub Pages
+      #  id: deployment
+      #  uses: actions/deploy-pages@v4
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v1
+
