@@ -22,7 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy1:
+  predeploy:
     permissions:
       pages: write      # to deploy to Pages
       id-token: write   # to verify the deployment originates from an appropriate source
@@ -40,29 +40,26 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      #- name: Deploy to GitHub Pages
+      #  id: deployment
+      #  uses: actions/deploy-pages@v4
   pages-directory-listing:
+    needs: predeploy
     runs-on: ubuntu-latest
     name: Directory Listings Index
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-        #with:
-        #  ref: main    #checkout different branch
-
       - name: Generate Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
-
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: './gifs/'      # upload generated folder
   # Single deploy job since we're just deploying
-  deploy2:
+  deploy:
     needs: pages-directory-listing
     permissions:
       pages: write      # to deploy to Pages
@@ -74,7 +71,5 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
-        with:
-          path: './gifs'
+        uses: actions/deploy-pages@v4
 
