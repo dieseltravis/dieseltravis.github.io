@@ -35,21 +35,16 @@ jobs:
       - name: Checkout Repository (again?)
         uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact1
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # Upload entire repository
-          path: '.'
-      
+        uses: actions/configure-pages@v5      
       - name: Generate Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
-      - name: Upload artifact2
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'gifs'      # upload generated folder
+          # Upload entire repository
+          path: '.'
   # Single deploy job since we're just deploying
   deploy:
     needs: pages-directory-listing
