@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Upload artifact
+      - name: Upload artifact 1
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
@@ -48,13 +48,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Directory Listings Index
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repository (again?)
         uses: actions/checkout@v3
       - name: Generate Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
-      - name: Upload artifact
+      - name: Upload artifact 2
         uses: actions/upload-pages-artifact@v3
         with:
           path: './gifs/'      # upload generated folder
