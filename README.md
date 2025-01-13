@@ -1,6 +1,4 @@
 dieseltravis.github.io
 =======================
 
-static website
-
-TODO: update 2015
+a static website
