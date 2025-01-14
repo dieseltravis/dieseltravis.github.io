@@ -42,6 +42,10 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git status
+      - name: Set env
+        run: echo "GITHUB_DATES=$(for f in $(git ls-files); do git log -1 --date=short --pretty=format:\"$f|%ci\" -- $f ; done)" >> $GITHUB_ENV
+      - name: Test
+        run: echo $GITHUB_DATES
       - name: Setup Pages
         uses: actions/configure-pages@v5      
       - name: Generate Directory Listings
