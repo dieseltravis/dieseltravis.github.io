@@ -42,8 +42,6 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git status
-          git tag
-          git describe
       - name: Setup Pages
         uses: actions/configure-pages@v5      
       - name: Generate Directory Listings
