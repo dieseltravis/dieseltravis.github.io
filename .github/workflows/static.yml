@@ -34,6 +34,8 @@ jobs:
     steps:
       - name: Checkout Repository (again?)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Setup Pages
         uses: actions/configure-pages@v5      
       - name: Generate Directory Listings
