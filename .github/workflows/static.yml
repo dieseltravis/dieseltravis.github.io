@@ -52,6 +52,7 @@ jobs:
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
+          GIF_DATES: $GIF_DATES
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
