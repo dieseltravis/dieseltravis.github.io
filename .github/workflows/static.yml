@@ -25,12 +25,6 @@ jobs:
   pages-directory-listing:
     runs-on: ubuntu-latest
     name: Directory Listings Index
-    permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout Repository (again?)
         uses: actions/checkout@v4
@@ -52,7 +46,7 @@ jobs:
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
-          GIF_DATES: ${{ env.GIF_DATES }}
+          FILE_DATES: ${{ env.GIF_DATES }}
       - name: Set imgs env
         run: echo IMGS_DATES=$(for f in $(git ls-files imgs/*.*); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
       - name: Test imgs
@@ -61,7 +55,7 @@ jobs:
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'imgs'      #directory to generate index
-          GIF_DATES: ${{ env.IMGS_DATES }}
+          FILE_DATES: ${{ env.IMGS_DATES }}
       - name: Set emojis env
         run: echo EMOJIS_DATES=$(for f in $(git ls-files emojis/*.*); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
       - name: Test emojis
@@ -69,8 +63,8 @@ jobs:
       - name: Generate emojis Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
-          FOLDER: 'imgs'      #directory to generate index
-          GIF_DATES: ${{ env.EMOJIS_DATES }}
+          FOLDER: 'emojis'      #directory to generate index
+          FILE_DATES: ${{ env.EMOJIS_DATES }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
