@@ -16,9 +16,9 @@ permissions:
   id-token: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
+  # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
   cancel-in-progress: false
 
 jobs:
@@ -26,51 +26,45 @@ jobs:
     runs-on: ubuntu-latest
     name: Directory Listings Index
     steps:
-      - name: Checkout Repository (again?)
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: git
         run: |
           git --version
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git status
-      - name: Set gif env
-        run: echo GIF_DATES=$(for f in $(git ls-files gifs/**); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
-      - name: Test gifs
-        run: echo $GIF_DATES
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+          echo GIF_DATES=$(for f in $(git ls-files gifs/**); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
+          echo IMGS_DATES=$(for f in $(git ls-files imgs/**); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
+          echo EMOJIS_DATES=$(for f in $(git ls-files emojis/**); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
+
       - name: Generate gifs Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'gifs'      #directory to generate index
           FILE_DATES: ${{ env.GIF_DATES }}
-      - name: Set imgs env
-        run: echo IMGS_DATES=$(for f in $(git ls-files imgs/**); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
-      - name: Test imgs
-        run: echo $IMGS_DATES
       - name: Generate imgs Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'imgs'      #directory to generate index
           FILE_DATES: ${{ env.IMGS_DATES }}
-      - name: Set emojis env
-        run: echo EMOJIS_DATES=$(for f in $(git ls-files emojis/**); do git --no-pager log -1 --date=short --pretty=format:"$f|%ci!" -- $f ; done) >> $GITHUB_ENV
-      - name: Test emojis
-        run: echo $EMOJIS_DATES
       - name: Generate emojis Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'emojis'      #directory to generate index
           FILE_DATES: ${{ env.EMOJIS_DATES }}
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
           path: '.'
-  # Single deploy job since we're just deploying
+
   deploy:
     needs: pages-directory-listing
     permissions:
