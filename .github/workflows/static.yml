@@ -48,16 +48,19 @@ jobs:
         with:
           FOLDER: 'gifs'      #directory to generate index
           FILE_DATES: ${{ env.GIF_DATES }}
+          DO_RSS: True
       - name: Generate imgs Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'imgs'      #directory to generate index
           FILE_DATES: ${{ env.IMGS_DATES }}
+          DO_RSS: True
       - name: Generate emojis Directory Listings
         uses: dieseltravis/github-pages-directory-listing@dieseltravis-html
         with:
           FOLDER: 'emojis'      #directory to generate index
           FILE_DATES: ${{ env.EMOJIS_DATES }}
+          DO_RSS: True
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
