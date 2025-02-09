@@ -8,14 +8,14 @@
     Mozilla (mozilla.org)
 
 /* SITE info */
-    Last update: 2025/01/12
+    Last update: 2025/02/08
     Language: English
     IDE: JS Bin, Visual Studio Code, Notepad2, github
     img: Paint.Net, png2ico
 
     ┌─────────────────┐
     │ ╔═════════════╗ │
-    │ ║ *traviblog* ║ │
+    │ ║ *travisite* ║ │
     │ ╚════╗ 2 ╔════╝ │
     └────┐ ║ 0 ║ ┌────┘
          │ ║ 2 ║ │    
