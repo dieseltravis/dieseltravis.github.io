@@ -11,3 +11,4 @@ I just use symlinking of files into categories in sub-folders:
 ```
 ln -s ../rear-admiral.gif ./gifs/simpsons/
 ```
+
