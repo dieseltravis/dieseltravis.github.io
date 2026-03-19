@@ -1,6 +1,6 @@
 {
-  "name": "Travis",
-  "short_name": "Travis",
+  "name": "travisite",
+  "short_name": "travis",
   "icons": [
     {
       "src": "/favicons/web-app-manifest-192x192.png",
